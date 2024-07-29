@@ -1,27 +1,23 @@
+## Hi! Nice to meet you
 
-![MastweHead](https://geekflare.com/wp-content/uploads/2022/10/Heres-What-it-Means-to-Be-a-Full-Stack-Developer.jpeg)
-# Chellapandiammal-c
-<h1 align="center">Hi 👋, I'm Chellapandiammal</h1>
-<h3 align="center">A Passionate Software developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
+![version :20.08.2021](https://img.shields.io/badge/version-20.08.2021-informational) &nbsp;
+![profile count](https://komarev.com/ghpvc/?username=bhuvaneshcj&color=red)&nbsp;
+![build: passing](https://img.shields.io/badge/build-passing-success)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chellapandiammal&label=Profile%20views&color=0e75b6&style=flat" alt="chellapandiammal" /> </p>
+### About me
 
-- 🌱 I’m currently learning **Full Stack Development**
-
-- 💬 Ask me about **Java**
-
-- 📫 How to reach me **sowmiyapandian223@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="justify">
+Passionate and detail-oriented React Developer with 1 year of hands-on experience in building dynamic and responsive web applications. Proficient in HTML, CSS, JavaScript, and modern frameworks like React.js and Next.js. Demonstrated expertise in developing user-centric features and improving web performance. Adept at collaborating with cross-functional teams to deliver high-quality software solutions. Committed to continuous learning and staying updated with industry trends.Passionate and detail-oriented React Developer with 1 year of hands-on experience in building dynamic and responsive web applications. Proficient in HTML, CSS, JavaScript, and modern frameworks like React.js and Next.js. Demonstrated expertise in developing user-centric features and improving web performance. Adept at collaborating with cross-functional teams to deliver high-quality software solutions. Committed to continuous learning and staying updated with industry trends.  
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chellapandiammal&show_icons=true&locale=en&layout=compact" alt="chellapandiammal" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chellapandiammal&show_icons=true&locale=en" alt="chellapandiammal" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chellapandiammal&" alt="chellapandiammal" /></p>
+<br>
+<p align="start">
+    <a href="https://skillicons.dev">
+        <img
+            src="https://skillicons.dev/icons?i=reactjs,html,css,bootstrap,tailwind,js,jquery,ts,git,github,gitlab,vscode,postman" />
+    </a>
+</p>
+<br>
+<a href="https://www.linkedin.com/in/chellapandiammal/"><img
+        src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
+        alt="LinkedIn" />
+</a>&nbsp;
