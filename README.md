@@ -13,7 +13,7 @@ Passionate and detail-oriented React Developer with 1 year of hands-on experienc
 <p align="start">
     <a href="https://skillicons.dev">
         <img
-            src="https://skillicons.dev/icons?i=reactjs,html,css,bootstrap,tailwind,js,jquery,ts,git,github,gitlab,vscode,postman" />
+            src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind,js,jquery,ts,git,github,gitlab,vscode,postman" />
     </a>
 </p>
 <br>
